@@ -14,7 +14,7 @@
     "javascript",
     "backend"
   ],
-  "author": "Akshay",
+  "author": "tanmay",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0"
